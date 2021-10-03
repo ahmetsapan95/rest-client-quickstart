@@ -4,10 +4,10 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 ## Running the application from Docker Hub:
 
-To install the docker image: 
+To install the docker image use the following command: 
 docker pull 17693/sqills-case:sqills
 
-To run the docker image on port 8080: 
+To run the docker image on port 8080 us the following command: 
 docker run -p 8080:8080 17693/sqills-case:sqills
 
 You can now see that application is running at: http://localhost:8080
